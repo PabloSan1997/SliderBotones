@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SliderBotones/static/css/main.8e34b687.css",
-    "main.js": "/SliderBotones/static/js/main.8163a281.js",
+    "main.css": "/SliderBotones/static/css/main.1bcf5c5f.css",
+    "main.js": "/SliderBotones/static/js/main.2d8bc27a.js",
     "index.html": "/SliderBotones/index.html",
-    "main.8e34b687.css.map": "/SliderBotones/static/css/main.8e34b687.css.map",
-    "main.8163a281.js.map": "/SliderBotones/static/js/main.8163a281.js.map"
+    "main.1bcf5c5f.css.map": "/SliderBotones/static/css/main.1bcf5c5f.css.map",
+    "main.2d8bc27a.js.map": "/SliderBotones/static/js/main.2d8bc27a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e34b687.css",
-    "static/js/main.8163a281.js"
+    "static/css/main.1bcf5c5f.css",
+    "static/js/main.2d8bc27a.js"
   ]
 }
