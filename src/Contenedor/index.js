@@ -3,7 +3,7 @@ import { Contexto } from "../contextos";
 import "./index.css";
 
 function Contenedor(props) {
-    const {derecha, setDerecha, setIzquierda, izquierda, setActivar}=React.useContext(Contexto);
+    const {setDerecha, setIzquierda}=React.useContext(Contexto);
     function der(){
        setDerecha(true);
     }
